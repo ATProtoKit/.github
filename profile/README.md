@@ -11,3 +11,10 @@ With the exception of the main ATProtoKit repository and any forks, all reposito
 > Note: Even though the main ATProtoKit repository is under the MIT licence, please do consider also crediting the Swift package.
 
 This is a work-in-progress and many things may break or not work. Contributions and donations are welcome!
+
+## Swift Packages
+
+| Package                        | Documentation                                                                                 | Swift Package Index                                                                                                                                      | Source Code                 |
+| ------------------------------ | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------- |
+| ATProtoKit                     | [DocC]([./packages/api/README.md](https://atprotokit.cjrriley.com/documentation/atprotokit/)) | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FMasterJ93%2FATProtoKit%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/MasterJ93/ATProtoKit) [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FMasterJ93%2FATProtoKit%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/MasterJ93/ATProtoKit) | [Source Code](https://github.com/MasterJ93/ATProtoKit) |
+| ATCryptography                 | [DocC](https://swiftpackageindex.com/ATProtoKit/ATCryptography/documentation/atcryptography)  | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FATProtoKit%2FATCryptography%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/ATProtoKit/ATCryptography) [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FATProtoKit%2FATCryptography%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/ATProtoKit/ATCryptography) | [Source Code](https://github.com/ATProtoKit/ATCryptography) |
