@@ -19,3 +19,38 @@ This is a work-in-progress and many things may break or not work. Contributions 
 | **ATProtoKit**                 | [DocC]([./packages/api/README.md](https://atprotokit.cjrriley.com/documentation/atprotokit/)) | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FMasterJ93%2FATProtoKit%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/MasterJ93/ATProtoKit)<br>[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FMasterJ93%2FATProtoKit%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/MasterJ93/ATProtoKit) | [Source Code](https://github.com/MasterJ93/ATProtoKit) |
 | **ATCryptography**             | [DocC](https://swiftpackageindex.com/ATProtoKit/ATCryptography/documentation/atcryptography)  | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FATProtoKit%2FATCryptography%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/ATProtoKit/ATCryptography)<br>[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FATProtoKit%2FATCryptography%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/ATProtoKit/ATCryptography) | [Source Code](https://github.com/ATProtoKit/ATCryptography) |
 | **ATCommonTools**              | _Not available online at this time._                                                          | _Not submitted to Swift Package Index at this time._                                                                                                      | [Source Code](https://github.com/ATProtoKit/ATCommonTools/tree/main) |
+
+## Conversion Progress
+For reference on what has been converted, here's a table of all the converted packages so far, and what's left to be converted.
+
+### TypeScript Packages
+| TypeScript Package Name       | ATProtoKit Swift package          |
+| ----------------------------- | --------------------------------- |
+| api	                          | ATProtoKit                        |
+| aws	                          | _Not available yet._              |
+| bsky (AppView)                |	_Not available yet._              |
+| bsync                         | _Not available yet._              |	
+| common	                      | ATCommonTools                     |
+| common-web                    | ATCommonTools                     |
+| crypto                        |	ATCryptography                    |
+| dev-env                       |	_Not available yet._              |
+| dev-infra	                    |	_Not available yet._              |
+| did                           |	DIDCore (within ATIdentityTools)  |
+| identity                      | ATIdentityTools                   |
+| internal	                    |	_Not available yet._              |
+| lex-ci                        |	_Not available yet._              |
+| lexicon	                      |	_Not available yet._              |
+| oauth	                        |	_Not available yet._              |
+| ozone	                        |	_Not available yet._              |
+| pds                           |	_Not available yet._              |
+| repo                          |	_Not available yet._              |
+| sync                          | _Not available yet._              |
+| syntax                        | ATSyntaxTools                     |
+| xrpc                          | ATProtoKit                        |
+| xrpc-server	                  | _Not available yet._              |
+
+<!-- ### TypeScript Services -->
+
+<!-- ### Go Packages -->
+
+<!-- ### Go Services -->
