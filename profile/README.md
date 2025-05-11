@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ATProtoKit/.github/blob/main/resources/atprotokit_icon.png" height="128" alt="An icon for ATProtoKit, which contains three stacks of rounded rectangles in an isometric top view. At the top stack, the @ symbol is in a white colour. The three stacks are darker shades of blue.">
+  <img src="https://github.com/ATProtoKit/.github/blob/main/resources/atprotokit_main_icon.png" height="128" alt="An icon for ATProtoKit family of Swift packages, which contains one large rounded rectangle in an 3D isometric top view. At the top stack, the @ symbol is in a white colour. The shape is a dark blue colour.">
 </p>
 
 <h1 align="center">The ATProtoKit Project</h1>
