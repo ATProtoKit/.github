@@ -20,7 +20,7 @@ This is a work-in-progress and many things may break or not work. Contributions 
 | **ATCryptography**             | [DocC](https://swiftpackageindex.com/ATProtoKit/ATCryptography/documentation/atcryptography)     | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FATProtoKit%2FATCryptography%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/ATProtoKit/ATCryptography)<br>[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FATProtoKit%2FATCryptography%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/ATProtoKit/ATCryptography) | [Source Code](https://github.com/ATProtoKit/ATCryptography) |
 | **ATCommonTools**              | _Not available online at this time._                                                             | _Not submitted to Swift Package Index at this time._                                                                                                      | [Source Code](https://github.com/ATProtoKit/ATCommonTools/tree/main) |
 | **ATSyntaxTools**              | [DocC](https://swiftpackageindex.com/ATProtoKit/ATSyntaxTools/documentation/atsyntaxtools)       | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FATProtoKit%2FATSyntaxTools%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/ATProtoKit/ATSyntaxTools)<br>[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FATProtoKit%2FATSyntaxTools%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/ATProtoKit/ATSyntaxTools) | [Source Code](https://github.com/ATProtoKit/ATSyntaxTools) |
-| **ATIdentityTools**            | [DocC (ATIdentityTools)](https://swiftpackageindex.com/ATProtoKit/ATIdentityTools/documentation/atidentitytools)<br>[DocC (DIDCore)](https://swiftpackageindex.com/ATProtoKit/ATIdentityTools/documentation/didcore)                                                 | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FATProtoKit%2FATIdentityTools%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/ATProtoKit/ATIdentityTools)<br>[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FATProtoKit%2FATIdentityTools%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/ATProtoKit/ATIdentityTools) | [Source Code](https://github.com/ATProtoKit/ATIdentityTools/tree/main) |
+| **ATIdentityTools**            | [DocC (ATIdentityTools)](https://swiftpackageindex.com/ATProtoKit/ATIdentityTools/documentation/atidentitytools)<br>[DocC (DIDCore)](https://swiftpackageindex.com/ATProtoKit/ATIdentityTools/documentation/didcore) | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FATProtoKit%2FATIdentityTools%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/ATProtoKit/ATIdentityTools)<br>[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FATProtoKit%2FATIdentityTools%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/ATProtoKit/ATIdentityTools) | [Source Code](https://github.com/ATProtoKit/ATIdentityTools/tree/main) |
 
 ## Conversion Progress
 For reference on what has been converted, here's a table of all the converted packages so far, and what's left to be converted.
@@ -29,27 +29,27 @@ For reference on what has been converted, here's a table of all the converted pa
 | TypeScript Package Name       | ATProtoKit Swift package          |
 | ----------------------------- | --------------------------------- |
 | api	                          | ATProtoKit                        |
-| aws	                          | _Not available yet._              |
-| bsky (AppView)                |	_Not available yet._              |
-| bsync                         | _Not available yet._              |	
+| aws	                          | _TBD._                            |
+| bsky (AppView)                | _TBD._                            |
+| bsync                         | _TBD._                            |
 | common	                      | ATCommonTools                     |
 | common-web                    | ATCommonTools                     |
 | crypto                        |	ATCryptography                    |
-| dev-env                       |	_Not available yet._              |
-| dev-infra	                    |	_Not available yet._              |
+| dev-env                       | _TBD._                            |
+| dev-infra	                    | _TBD._                            |
 | did                           |	DIDCore (within ATIdentityTools)  |
 | identity                      | ATIdentityTools                   |
-| internal	                    |	_Not available yet._              |
-| lex-ci                        |	_Not available yet._              |
-| lexicon	                      |	_Not available yet._              |
-| oauth	                        |	_Not available yet._              |
-| ozone	                        |	_Not available yet._              |
-| pds                           |	_Not available yet._              |
+| internal	                    | _TBD._                            |
+| lex-ci                        | _TBD._                            |
+| lexicon	                      |	ATLexiconTools                    |
+| oauth	                        | _TBD._                            |
+| ozone	                        | _TBD._                            |
+| pds                           | _TBD._                            |
 | repo                          |	ATRepository (and swift-mst)      |
-| sync                          | _Not available yet._              |
+| sync                          | _TBD._                            |
 | syntax                        | ATSyntaxTools                     |
 | xrpc                          | ATProtoKit                        |
-| xrpc-server	                  | _Not available yet._              |
+| xrpc-server	                  | _TBD._                            |
 
 <!-- ### TypeScript Services -->
 
