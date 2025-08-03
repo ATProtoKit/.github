@@ -38,14 +38,14 @@ For reference on what has been converted, here's a table of all the converted pa
 | dev-env                       | _TBD._                               |
 | dev-infra	                    | _TBD._                               |
 | did                           |	DIDCore (within ATIdentityTools)     |
-| identity                      | ATIdentityTools                      |
+| identity                      | _ATIdentityTools_                    |
 | internal	                    | _TBD._                               |
 | lex-ci                        | _TBD._                               |
-| lexicon	                      |	ATLexiconTools                       |
+| lexicon	                      |	_ATLexiconTools_                     |
 | oauth	                        | _ATOAuthKit_                         |
 | ozone	                        | _TBD._                               |
 | pds                           | _TBD._                               |
-| repo                          |	ATRepository (and swift-mst)         |
+| repo                          |	_ATRepository (and swift-at-mst)_    |
 | sync                          | _TBD._                               |
 | syntax                        | ATSyntaxTools                        |
 | xrpc                          | ATProtoKit                           |
