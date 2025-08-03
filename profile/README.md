@@ -42,17 +42,19 @@ For reference on what has been converted, here's a table of all the converted pa
 | internal	                    | _TBD._                               |
 | lex-ci                        | _TBD._                               |
 | lexicon	                      |	ATLexiconTools                       |
-| oauth	                        | _TBD._                               |
+| oauth	                        | _ATOAuthKit_                         |
 | ozone	                        | _TBD._                               |
 | pds                           | _TBD._                               |
 | repo                          |	ATRepository (and swift-mst)         |
 | sync                          | _TBD._                               |
 | syntax                        | ATSyntaxTools                        |
 | xrpc                          | ATProtoKit                           |
-| xrpc-server	                  | _TBD._                               |
+| xrpc-server	                  | _TBD._                               | 
 
 <!-- ### TypeScript Services -->
 
 <!-- ### Go Packages -->
 
 <!-- ### Go Services -->
+
+_(Any ATProtoKit Swift packages where the names are in italics suggests the Swift package doesn't exist at this time.)_
