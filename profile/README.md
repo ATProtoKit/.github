@@ -38,7 +38,7 @@ For reference on what has been converted, here's a table of all the converted pa
 | dev-env                       | _TBD._                               |
 | dev-infra	                    | _TBD._                               |
 | did                           |	DIDCore (within ATIdentityTools)     |
-| identity                      | _ATIdentityTools_                    |
+| identity                      | ATIdentityTools                      |
 | internal	                    | _TBD._                               |
 | lex-ci                        | _TBD._                               |
 | lexicon	                      |	_ATLexiconTools_                     |
