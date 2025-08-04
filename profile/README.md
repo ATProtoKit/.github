@@ -21,6 +21,7 @@ This is a work-in-progress and many things may break or not work. Contributions 
 | **ATCommonTools**              | _Not available online at this time._                                                             | _Not submitted to Swift Package Index at this time._                                                                                                      | [Source Code](https://github.com/ATProtoKit/ATCommonTools/tree/main) |
 | **ATSyntaxTools**              | [DocC](https://swiftpackageindex.com/ATProtoKit/ATSyntaxTools/documentation/atsyntaxtools)       | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FATProtoKit%2FATSyntaxTools%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/ATProtoKit/ATSyntaxTools)<br>[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FATProtoKit%2FATSyntaxTools%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/ATProtoKit/ATSyntaxTools) | [Source Code](https://github.com/ATProtoKit/ATSyntaxTools) |
 | **ATIdentityTools**            | [DocC (ATIdentityTools)](https://swiftpackageindex.com/ATProtoKit/ATIdentityTools/documentation/atidentitytools)<br>[DocC (DIDCore)](https://swiftpackageindex.com/ATProtoKit/ATIdentityTools/documentation/didcore) | [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FATProtoKit%2FATIdentityTools%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/ATProtoKit/ATIdentityTools)<br>[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FATProtoKit%2FATIdentityTools%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/ATProtoKit/ATIdentityTools) | [Source Code](https://github.com/ATProtoKit/ATIdentityTools/tree/main) |
+| **ATOAuthKit**                 | _Not available online at this time._                                                             | _Not submitted to Swift Package Index at this time._                                                        | [Source Code](https://github.com/ATProtoKit/ATOAuthKit/tree/main)
 
 ## Conversion Progress
 For reference on what has been converted, here's a table of all the converted packages so far, and what's left to be converted.
@@ -42,7 +43,7 @@ For reference on what has been converted, here's a table of all the converted pa
 | internal	                    | _TBD._                               |
 | lex-ci                        | _TBD._                               |
 | lexicon	                      |	_ATLexiconTools_                     |
-| oauth	                        | _ATOAuthKit_                         |
+| oauth	                        | ATOAuthKit                           |
 | ozone	                        | _TBD._                               |
 | pds                           | _TBD._                               |
 | repo                          |	_ATRepository (and swift-at-mst)_    |
