@@ -40,10 +40,10 @@ For reference on what has been converted, here's a table of all the converted pa
 | dev-infra	                    | _TBD._                                        |
 | did                           |	DIDCore (within ATIdentityTools)              |
 | identity                      | ATIdentityTools                               |
-| internal	                    | _TBD._                                        |
+| internal	                    | _ATProtoInternalLabs_                         |
 | lex-ci                        | _TBD._                                        |
 | lexicon	                      |	_ATLexiconTools_                              |
-| lexicon-resolver              | _LexiconResolverCore (within ATLexiconTools_  |
+| lexicon-resolver              | _LexiconResolverCore (within ATLexiconTools)_ |
 | oauth	                        | ATOAuthKit                                    |
 | ozone	                        | _TBD._                                        |
 | pds                           | _TBD._                                        |
