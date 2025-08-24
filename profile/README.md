@@ -27,30 +27,31 @@ This is a work-in-progress and many things may break or not work. Contributions 
 For reference on what has been converted, here's a table of all the converted packages so far, and what's left to be converted.
 
 ### TypeScript Packages
-| TypeScript Package Name       | ATProtoKit Swift package             |
-| ----------------------------- | ------------------------------------ |
-| api	                          | ATProtoKit                           |
-| aws	                          | _TBD._                               |
-| bsky (AppView)                | _TBD._                               |
-| bsync                         | _TBD._                               |
-| common	                      | ATCommonTools                        |
-| common-web                    | ATCommonWeb (within ATCommonTools)   |
-| crypto                        |	ATCryptography                       |
-| dev-env                       | _TBD._                               |
-| dev-infra	                    | _TBD._                               |
-| did                           |	DIDCore (within ATIdentityTools)     |
-| identity                      | ATIdentityTools                      |
-| internal	                    | _TBD._                               |
-| lex-ci                        | _TBD._                               |
-| lexicon	                      |	_ATLexiconTools_                     |
-| oauth	                        | ATOAuthKit                           |
-| ozone	                        | _TBD._                               |
-| pds                           | _TBD._                               |
-| repo                          |	_ATRepository (and swift-at-mst)_    |
-| sync                          | _TBD._                               |
-| syntax                        | ATSyntaxTools                        |
-| xrpc                          | ATProtoKit                           |
-| xrpc-server	                  | _TBD._                               | 
+| TypeScript Package Name       | ATProtoKit Swift package                      |
+| ----------------------------- | --------------------------------------------- |
+| api	                          | ATProtoKit                                    |
+| aws	                          | _TBD._                                        |
+| bsky (AppView)                | _TBD._                                        |
+| bsync                         | _TBD._                                        |
+| common	                      | ATCommonTools                                 |
+| common-web                    | ATCommonWeb (within ATCommonTools)            |
+| crypto                        |	ATCryptography                                |
+| dev-env                       | _TBD._                                        |
+| dev-infra	                    | _TBD._                                        |
+| did                           |	DIDCore (within ATIdentityTools)              |
+| identity                      | ATIdentityTools                               |
+| internal	                    | _TBD._                                        |
+| lex-ci                        | _TBD._                                        |
+| lexicon	                      |	_ATLexiconTools_                              |
+| lexicon-resolver              | _LexiconResolverCore (within ATLexiconTools_  |
+| oauth	                        | ATOAuthKit                                    |
+| ozone	                        | _TBD._                                        |
+| pds                           | _TBD._                                        |
+| repo                          |	_ATRepository (and swift-at-mst)_             |
+| sync                          | _TBD._                                        |
+| syntax                        | ATSyntaxTools                                 |
+| xrpc                          | ATProtoKit                                    |
+| xrpc-server	                  | _TBD._                                        |
 
 <!-- ### TypeScript Services -->
 
