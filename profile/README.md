@@ -43,7 +43,7 @@ For reference on what has been converted, here's a table of all the converted pa
 | identity                      | ATIdentityTools                               |
 | internal	                    | _ATProtoInternalLabs_                         |
 | lex-ci                        | _TBD._                                        |
-| lexicon	                      |	_ATLexiconTools_                              |
+| lexicon	                      |	ATLexiconTools                                |
 | lexicon-resolver              | _LexiconResolverCore (within ATLexiconTools)_ |
 | oauth	                        | ATOAuthKit                                    |
 | ozone	                        | _TBD._                                        |
