@@ -13,6 +13,9 @@ Currently, the latest version of the repository supports security vulnerability 
 - [ATOAuthKit](https://github.com/ATProtoKit/ATOAuthKit/security/advisories/new)
 - [ATSyntaxTools](https://github.com/ATProtoKit/ATSyntaxTools/security/advisories/new)
 - [ATLexiconTools](https://github.com/ATProtoKit/ATLexiconTools/security/advisories/new)
+- [OAuthenticator](https://github.com/ATProtoKit/OAuthenticator/security/advisories/new)
+- [Jot](https://github.com/ATProtoKit/Jot/security/advisories/new)
+- [ATResolve](https://github.com/ATProtoKit/ATResolve/security/advisories/new)
 
 Alternatively, you can email me at [security@cjrriley.com](mailto:security@cjrriley.com?subject=%5Brepository%5D%20Security%20Vulnerability:%20[ENTER%20TITLE%20HERE])
  with the subject line `[Name of repository] Security Issue: [title of vulnerability]`. Please type out what you found, how to reproduce the steps, a possible link to a sample project that can reproduce the error, and any other additional information that could help me fix the problem.
